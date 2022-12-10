@@ -1,1 +1,1 @@
-### A Game in Java with JavaFX library
+ A Game in Java with JavaFX library
